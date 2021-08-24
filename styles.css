@@ -10,6 +10,12 @@
 
 }
 
+.play-again {
+  font-size: 3rem;
+  text-align: center;
+  margin-top: 5%;
+}
+
 body {
   background-color: #415675;
 }
