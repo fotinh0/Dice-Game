@@ -6,6 +6,7 @@ Dice game challenge solution from The Complete 2021 Web Development Bootcamp cou
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Screenshots](#screenshots)
   - [Links](#links)
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
@@ -18,6 +19,10 @@ Dice game challenge solution from The Complete 2021 Web Development Bootcamp cou
 - Generate two random numbers between 1-6 to simulate dice roll for each player. 
 - Use random numbers generated to change dice image to the corresponding generated number for each player.
 - Change the title to display the winner of the dice game.
+
+### Screenshots
+
+![image](https://user-images.githubusercontent.com/67170897/131262087-0ad3bd8b-6fa6-4af7-a39c-57232790ffe8.png)
 
 ### Links
 
